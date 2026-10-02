@@ -1,3 +1,2 @@
-SELECT MAX(salary) As SecondHighestSalary
-FROM employee 
-WHERE salary < (SELECT MAX(salary) FROM employee);
+select max(salary) as SecondHighestSalary from employee 
+where salary < (select max(salary) from employee);
