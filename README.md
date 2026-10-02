@@ -42,6 +42,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0022-generate-parentheses/) | Medium |
 | [0125-valid-palindrome](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0344-reverse-string/) | Easy |
 ## Stack
@@ -52,6 +53,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0022-generate-parentheses/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,4 +67,12 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0022-generate-parentheses/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
