@@ -11,6 +11,7 @@ Contains topicwise list of solved problems.
 | [0027-remove-element](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0027-remove-element/) | Easy |
 | [0189-rotate-array](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0268-missing-number/) | Easy |
+| [0283-move-zeroes](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0283-move-zeroes/) | Easy |
 | [1470-shuffle-the-array](https://github.com/ritikyadav-io/leetcode-solution/tree/main/1470-shuffle-the-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -69,6 +70,7 @@ Contains topicwise list of solved problems.
 | [0027-remove-element](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0027-remove-element/) | Easy |
 | [0125-valid-palindrome](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0189-rotate-array/) | Medium |
+| [0283-move-zeroes](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0344-reverse-string/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
