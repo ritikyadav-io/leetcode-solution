@@ -49,17 +49,20 @@ Contains topicwise list of solved problems.
 | [0032-longest-valid-parentheses](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0125-valid-palindrome](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0344-reverse-string/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,8 +83,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0022-generate-parentheses/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0678-valid-parenthesis-string](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0678-valid-parenthesis-string/) | Medium |
 <!---LeetCode Topics End-->
