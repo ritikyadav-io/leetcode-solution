@@ -23,6 +23,7 @@ Contains topicwise list of solved problems.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0013-roman-to-integer/) | Easy |
 | [0070-climbing-stairs](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0189-rotate-array/) | Medium |
