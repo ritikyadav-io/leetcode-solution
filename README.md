@@ -10,6 +10,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0014-longest-common-prefix/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0027-remove-element/) | Easy |
 | [0189-rotate-array](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0268-missing-number/) | Easy |
@@ -79,6 +80,7 @@ Contains topicwise list of solved problems.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0027-remove-element/) | Easy |
 | [0125-valid-palindrome](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0189-rotate-array/) | Medium |
