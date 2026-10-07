@@ -56,6 +56,7 @@ Contains topicwise list of solved problems.
 | [0022-generate-parentheses](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0125-valid-palindrome](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0125-valid-palindrome/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0344-reverse-string](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0344-reverse-string/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0856-score-of-parentheses/) | Medium |
@@ -105,6 +106,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0022-generate-parentheses/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0301-remove-invalid-parentheses/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,4 +120,8 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0014-longest-common-prefix/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0301-remove-invalid-parentheses/) | Hard |
 <!---LeetCode Topics End-->
