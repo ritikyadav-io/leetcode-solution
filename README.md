@@ -12,6 +12,7 @@ Contains topicwise list of solved problems.
 | [0014-longest-common-prefix](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0027-remove-element/) | Easy |
+| [0053-maximum-subarray](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0189-rotate-array](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0268-missing-number/) | Easy |
@@ -104,6 +105,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0053-maximum-subarray](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -129,4 +131,8 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0301-remove-invalid-parentheses/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
