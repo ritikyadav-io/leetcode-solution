@@ -6,7 +6,7 @@ class Solution:
 
         while left<=right:
             if abs(nums[left])>abs(nums[right]):
-                result[index]=nums[left]**2
+                result[index]=abs(nums[left])**2
                 left+=1
             else:
                 result[index]=abs(nums[right])**2
