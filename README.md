@@ -114,6 +114,7 @@ Contains topicwise list of solved problems.
 | [0011-container-with-most-water](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0027-remove-element/) | Easy |
+| [0061-rotate-list](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0061-rotate-list/) | Medium |
 | [0125-valid-palindrome](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0283-move-zeroes/) | Easy |
@@ -123,6 +124,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0061-rotate-list](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0061-rotate-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
