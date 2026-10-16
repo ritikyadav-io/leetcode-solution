@@ -36,6 +36,7 @@ Contains topicwise list of solved problems.
 | [0013-roman-to-integer](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0013-roman-to-integer/) | Easy |
 | [0169-majority-element](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ritikyadav-io/leetcode-solution/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
@@ -64,6 +65,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0169-majority-element](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -82,6 +84,7 @@ Contains topicwise list of solved problems.
 | [0022-generate-parentheses](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0125-valid-palindrome](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0125-valid-palindrome/) | Easy |
+| [0242-valid-anagram](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0242-valid-anagram/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0344-reverse-string](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0344-reverse-string/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0678-valid-parenthesis-string/) | Medium |
