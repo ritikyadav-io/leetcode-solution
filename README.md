@@ -13,6 +13,7 @@ Contains topicwise list of solved problems.
 | [0014-longest-common-prefix](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0027-remove-element/) | Easy |
+| [0049-group-anagrams](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0066-plus-one/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -34,6 +35,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0013-roman-to-integer/) | Easy |
+| [0049-group-anagrams](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0242-valid-anagram/) | Easy |
@@ -63,6 +65,7 @@ Contains topicwise list of solved problems.
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0242-valid-anagram/) | Easy |
@@ -83,6 +86,7 @@ Contains topicwise list of solved problems.
 | [0020-valid-parentheses](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0049-group-anagrams](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0242-valid-anagram/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0301-remove-invalid-parentheses/) | Hard |
