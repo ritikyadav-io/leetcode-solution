@@ -27,6 +27,7 @@ Contains topicwise list of solved problems.
 | [0347-top-k-frequent-elements](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/ritikyadav-io/leetcode-solution/tree/main/1470-shuffle-the-array/) | Easy |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ritikyadav-io/leetcode-solution/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ritikyadav-io/leetcode-solution/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ritikyadav-io/leetcode-solution/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ritikyadav-io/leetcode-solution/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
@@ -57,6 +58,7 @@ Contains topicwise list of solved problems.
 | [0070-climbing-stairs](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0268-missing-number/) | Easy |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ritikyadav-io/leetcode-solution/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -153,6 +155,7 @@ Contains topicwise list of solved problems.
 | [0070-climbing-stairs](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ritikyadav-io/leetcode-solution/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -172,6 +175,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0070-climbing-stairs/) | Easy |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ritikyadav-io/leetcode-solution/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -186,6 +190,7 @@ Contains topicwise list of solved problems.
 | [0053-maximum-subarray](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ritikyadav-io/leetcode-solution/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -230,4 +235,25 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ritikyadav-io/leetcode-solution/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ritikyadav-io/leetcode-solution/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ritikyadav-io/leetcode-solution/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ritikyadav-io/leetcode-solution/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ritikyadav-io/leetcode-solution/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Fermat's Little Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ritikyadav-io/leetcode-solution/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 <!---LeetCode Topics End-->
