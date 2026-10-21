@@ -110,6 +110,7 @@ Contains topicwise list of solved problems.
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/ritikyadav-io/leetcode-solution/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ritikyadav-io/leetcode-solution/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/ritikyadav-io/leetcode-solution/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
