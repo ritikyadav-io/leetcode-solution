@@ -39,6 +39,7 @@ Contains topicwise list of solved problems.
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ritikyadav-io/leetcode-solution/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3731-find-missing-elements](https://github.com/ritikyadav-io/leetcode-solution/tree/main/3731-find-missing-elements/) | Easy |
 | [3886-sum-of-sortable-integers](https://github.com/ritikyadav-io/leetcode-solution/tree/main/3886-sum-of-sortable-integers/) | Hard |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/ritikyadav-io/leetcode-solution/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
