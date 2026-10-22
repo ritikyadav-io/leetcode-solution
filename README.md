@@ -48,6 +48,7 @@ Contains topicwise list of solved problems.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0049-group-anagrams](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0141-linked-list-cycle](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0242-valid-anagram/) | Easy |
@@ -153,6 +154,7 @@ Contains topicwise list of solved problems.
 | [0075-sort-colors](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0125-valid-palindrome](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0125-valid-palindrome/) | Easy |
+| [0141-linked-list-cycle](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0189-rotate-array](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0344-reverse-string/) | Easy |
@@ -163,6 +165,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0061-rotate-list](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0061-rotate-list/) | Medium |
+| [0141-linked-list-cycle](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0141-linked-list-cycle/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -292,4 +295,8 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0075-sort-colors/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
