@@ -112,6 +112,7 @@ Contains topicwise list of solved problems.
 | [0242-valid-anagram](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0242-valid-anagram/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0344-reverse-string](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0344-reverse-string/) | Easy |
+| [0392-is-subsequence](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0392-is-subsequence/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -154,6 +155,7 @@ Contains topicwise list of solved problems.
 | [0189-rotate-array](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0344-reverse-string/) | Easy |
+| [0392-is-subsequence](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0392-is-subsequence/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -173,6 +175,7 @@ Contains topicwise list of solved problems.
 | [0053-maximum-subarray](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0392-is-subsequence](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0392-is-subsequence/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ritikyadav-io/leetcode-solution/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Backtracking
