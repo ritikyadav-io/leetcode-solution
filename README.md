@@ -17,6 +17,7 @@ Contains topicwise list of solved problems.
 | [0049-group-anagrams](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0066-plus-one/) | Easy |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0169-majority-element/) | Easy |
@@ -145,6 +146,7 @@ Contains topicwise list of solved problems.
 | [0027-remove-element](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0027-remove-element/) | Easy |
 | [0042-trapping-rain-water](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0061-rotate-list/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0125-valid-palindrome](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0283-move-zeroes/) | Easy |
