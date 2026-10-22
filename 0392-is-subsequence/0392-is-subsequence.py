@@ -14,4 +14,4 @@ class Solution(object):
 
             if i == len(s):
                 return True
-        return False
+        return i ==len(s)
