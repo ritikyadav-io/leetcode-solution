@@ -68,6 +68,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0013-roman-to-integer/) | Easy |
+| [0050-powx-n](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0189-rotate-array/) | Medium |
@@ -183,6 +184,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0050-powx-n](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0050-powx-n/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
