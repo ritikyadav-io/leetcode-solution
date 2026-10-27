@@ -113,6 +113,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0176-second-highest-salary/) | Medium |
+| [0197-rising-temperature](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0197-rising-temperature/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/ritikyadav-io/leetcode-solution/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 ## String
 | Problem Name | Difficulty |
