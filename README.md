@@ -21,6 +21,7 @@ Contains topicwise list of solved problems.
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0136-single-number](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0217-contains-duplicate/) | Easy |
@@ -88,6 +89,7 @@ Contains topicwise list of solved problems.
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ritikyadav-io/leetcode-solution/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
