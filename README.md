@@ -29,6 +29,7 @@ Contains topicwise list of solved problems.
 | [0283-move-zeroes](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0485-max-consecutive-ones](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0724-find-pivot-index/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0977-squares-of-a-sorted-array/) | Easy |
