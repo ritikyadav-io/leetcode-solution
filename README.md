@@ -14,6 +14,7 @@ Contains topicwise list of solved problems.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0027-remove-element/) | Easy |
 | [0042-trapping-rain-water](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0042-trapping-rain-water/) | Hard |
+| [0048-rotate-image](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0066-plus-one/) | Easy |
@@ -71,6 +72,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0013-roman-to-integer/) | Easy |
+| [0048-rotate-image](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0070-climbing-stairs/) | Easy |
@@ -341,6 +343,7 @@ Contains topicwise list of solved problems.
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0048-rotate-image/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/ritikyadav-io/leetcode-solution/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ritikyadav-io/leetcode-solution/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Pigeonhole Principle
