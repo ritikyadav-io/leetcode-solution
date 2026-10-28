@@ -19,6 +19,7 @@ Contains topicwise list of solved problems.
 | [0053-maximum-subarray](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -86,6 +87,7 @@ Contains topicwise list of solved problems.
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0268-missing-number](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ritikyadav-io/leetcode-solution/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -347,6 +349,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/ritikyadav-io/leetcode-solution/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ritikyadav-io/leetcode-solution/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Pigeonhole Principle
