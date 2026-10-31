@@ -49,6 +49,7 @@ Contains topicwise list of solved problems.
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ritikyadav-io/leetcode-solution/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ritikyadav-io/leetcode-solution/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ritikyadav-io/leetcode-solution/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/ritikyadav-io/leetcode-solution/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3731-find-missing-elements](https://github.com/ritikyadav-io/leetcode-solution/tree/main/3731-find-missing-elements/) | Easy |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ritikyadav-io/leetcode-solution/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/ritikyadav-io/leetcode-solution/tree/main/3886-sum-of-sortable-integers/) | Hard |
@@ -216,6 +217,7 @@ Contains topicwise list of solved problems.
 | [0392-is-subsequence](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0392-is-subsequence/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ritikyadav-io/leetcode-solution/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [3665-twisted-mirror-path-count](https://github.com/ritikyadav-io/leetcode-solution/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ritikyadav-io/leetcode-solution/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -359,6 +361,7 @@ Contains topicwise list of solved problems.
 | [0074-search-a-2d-matrix](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/ritikyadav-io/leetcode-solution/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ritikyadav-io/leetcode-solution/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/ritikyadav-io/leetcode-solution/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ritikyadav-io/leetcode-solution/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
