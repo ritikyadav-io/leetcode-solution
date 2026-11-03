@@ -52,6 +52,7 @@ Contains topicwise list of solved problems.
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ritikyadav-io/leetcode-solution/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/ritikyadav-io/leetcode-solution/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3731-find-missing-elements](https://github.com/ritikyadav-io/leetcode-solution/tree/main/3731-find-missing-elements/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ritikyadav-io/leetcode-solution/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ritikyadav-io/leetcode-solution/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/ritikyadav-io/leetcode-solution/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/ritikyadav-io/leetcode-solution/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
@@ -88,6 +89,7 @@ Contains topicwise list of solved problems.
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ritikyadav-io/leetcode-solution/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2409-count-days-spent-together](https://github.com/ritikyadav-io/leetcode-solution/tree/main/2409-count-days-spent-together/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ritikyadav-io/leetcode-solution/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3886-sum-of-sortable-integers](https://github.com/ritikyadav-io/leetcode-solution/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
