@@ -45,6 +45,7 @@ Contains topicwise list of solved problems.
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ritikyadav-io/leetcode-solution/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ritikyadav-io/leetcode-solution/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ritikyadav-io/leetcode-solution/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/ritikyadav-io/leetcode-solution/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ritikyadav-io/leetcode-solution/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ritikyadav-io/leetcode-solution/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ritikyadav-io/leetcode-solution/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -73,6 +74,7 @@ Contains topicwise list of solved problems.
 | [0242-valid-anagram](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/ritikyadav-io/leetcode-solution/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ritikyadav-io/leetcode-solution/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ritikyadav-io/leetcode-solution/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ritikyadav-io/leetcode-solution/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
@@ -128,6 +130,7 @@ Contains topicwise list of solved problems.
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ritikyadav-io/leetcode-solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ritikyadav-io/leetcode-solution/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ritikyadav-io/leetcode-solution/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/ritikyadav-io/leetcode-solution/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3731-find-missing-elements](https://github.com/ritikyadav-io/leetcode-solution/tree/main/3731-find-missing-elements/) | Easy |
 | [3886-sum-of-sortable-integers](https://github.com/ritikyadav-io/leetcode-solution/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Database
@@ -361,6 +364,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ritikyadav-io/leetcode-solution/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/ritikyadav-io/leetcode-solution/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ritikyadav-io/leetcode-solution/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
