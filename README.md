@@ -54,6 +54,7 @@ Contains topicwise list of solved problems.
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ritikyadav-io/leetcode-solution/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ritikyadav-io/leetcode-solution/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/ritikyadav-io/leetcode-solution/tree/main/3665-twisted-mirror-path-count/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/ritikyadav-io/leetcode-solution/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3731-find-missing-elements](https://github.com/ritikyadav-io/leetcode-solution/tree/main/3731-find-missing-elements/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ritikyadav-io/leetcode-solution/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ritikyadav-io/leetcode-solution/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
@@ -233,6 +234,7 @@ Contains topicwise list of solved problems.
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ritikyadav-io/leetcode-solution/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ritikyadav-io/leetcode-solution/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/ritikyadav-io/leetcode-solution/tree/main/3665-twisted-mirror-path-count/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/ritikyadav-io/leetcode-solution/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ritikyadav-io/leetcode-solution/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
