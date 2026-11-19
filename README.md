@@ -45,6 +45,7 @@ Contains topicwise list of solved problems.
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ritikyadav-io/leetcode-solution/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ritikyadav-io/leetcode-solution/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ritikyadav-io/leetcode-solution/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ritikyadav-io/leetcode-solution/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/ritikyadav-io/leetcode-solution/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ritikyadav-io/leetcode-solution/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ritikyadav-io/leetcode-solution/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
@@ -132,6 +133,7 @@ Contains topicwise list of solved problems.
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ritikyadav-io/leetcode-solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ritikyadav-io/leetcode-solution/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ritikyadav-io/leetcode-solution/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ritikyadav-io/leetcode-solution/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/ritikyadav-io/leetcode-solution/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3731-find-missing-elements](https://github.com/ritikyadav-io/leetcode-solution/tree/main/3731-find-missing-elements/) | Easy |
 | [3886-sum-of-sortable-integers](https://github.com/ritikyadav-io/leetcode-solution/tree/main/3886-sum-of-sortable-integers/) | Hard |
@@ -252,6 +254,7 @@ Contains topicwise list of solved problems.
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ritikyadav-io/leetcode-solution/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ritikyadav-io/leetcode-solution/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ritikyadav-io/leetcode-solution/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ritikyadav-io/leetcode-solution/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
