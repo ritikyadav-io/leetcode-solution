@@ -33,6 +33,7 @@ Contains topicwise list of solved problems.
 | [0268-missing-number](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
@@ -322,6 +323,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0724-find-pivot-index](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0724-find-pivot-index/) | Easy |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
@@ -413,4 +415,8 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ritikyadav-io/leetcode-solution/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0303-range-sum-query-immutable/) | Easy |
 <!---LeetCode Topics End-->
