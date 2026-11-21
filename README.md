@@ -13,6 +13,7 @@ Contains topicwise list of solved problems.
 | [0014-longest-common-prefix](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0027-remove-element/) | Easy |
+| [0035-search-insert-position](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0049-group-anagrams/) | Medium |
@@ -109,6 +110,7 @@ Contains topicwise list of solved problems.
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0268-missing-number/) | Easy |
