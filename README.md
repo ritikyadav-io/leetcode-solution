@@ -178,6 +178,7 @@ Contains topicwise list of solved problems.
 | [1021-remove-outermost-parentheses](https://github.com/ritikyadav-io/leetcode-solution/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ritikyadav-io/leetcode-solution/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ritikyadav-io/leetcode-solution/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/ritikyadav-io/leetcode-solution/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2409-count-days-spent-together](https://github.com/ritikyadav-io/leetcode-solution/tree/main/2409-count-days-spent-together/) | Easy |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ritikyadav-io/leetcode-solution/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [3331-find-subtree-sizes-after-changes](https://github.com/ritikyadav-io/leetcode-solution/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
