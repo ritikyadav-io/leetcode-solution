@@ -44,6 +44,7 @@ Contains topicwise list of solved problems.
 | [0724-find-pivot-index](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0724-find-pivot-index/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/ritikyadav-io/leetcode-solution/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/ritikyadav-io/leetcode-solution/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ritikyadav-io/leetcode-solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1470-shuffle-the-array](https://github.com/ritikyadav-io/leetcode-solution/tree/main/1470-shuffle-the-array/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ritikyadav-io/leetcode-solution/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -104,6 +105,7 @@ Contains topicwise list of solved problems.
 | [0189-rotate-array](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0268-missing-number/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/ritikyadav-io/leetcode-solution/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ritikyadav-io/leetcode-solution/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2409-count-days-spent-together](https://github.com/ritikyadav-io/leetcode-solution/tree/main/2409-count-days-spent-together/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ritikyadav-io/leetcode-solution/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
@@ -331,6 +333,7 @@ Contains topicwise list of solved problems.
 | [0303-range-sum-query-immutable](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0724-find-pivot-index/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/ritikyadav-io/leetcode-solution/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -425,4 +428,9 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/ritikyadav-io/leetcode-solution/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/ritikyadav-io/leetcode-solution/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 <!---LeetCode Topics End-->
