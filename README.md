@@ -109,6 +109,7 @@ Contains topicwise list of solved problems.
 | [1352-product-of-the-last-k-numbers](https://github.com/ritikyadav-io/leetcode-solution/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ritikyadav-io/leetcode-solution/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2409-count-days-spent-together](https://github.com/ritikyadav-io/leetcode-solution/tree/main/2409-count-days-spent-together/) | Easy |
+| [3360-stone-removal-game](https://github.com/ritikyadav-io/leetcode-solution/tree/main/3360-stone-removal-game/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/ritikyadav-io/leetcode-solution/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ritikyadav-io/leetcode-solution/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ritikyadav-io/leetcode-solution/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
@@ -441,4 +442,8 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/ritikyadav-io/leetcode-solution/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3360-stone-removal-game](https://github.com/ritikyadav-io/leetcode-solution/tree/main/3360-stone-removal-game/) | Easy |
 <!---LeetCode Topics End-->
