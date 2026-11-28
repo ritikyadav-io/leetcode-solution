@@ -70,6 +70,7 @@ Contains topicwise list of solved problems.
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ritikyadav-io/leetcode-solution/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/ritikyadav-io/leetcode-solution/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/ritikyadav-io/leetcode-solution/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/ritikyadav-io/leetcode-solution/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -155,6 +156,7 @@ Contains topicwise list of solved problems.
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/ritikyadav-io/leetcode-solution/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3731-find-missing-elements](https://github.com/ritikyadav-io/leetcode-solution/tree/main/3731-find-missing-elements/) | Easy |
 | [3886-sum-of-sortable-integers](https://github.com/ritikyadav-io/leetcode-solution/tree/main/3886-sum-of-sortable-integers/) | Hard |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/ritikyadav-io/leetcode-solution/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -278,6 +280,7 @@ Contains topicwise list of solved problems.
 | [2333-minimum-sum-of-squared-difference](https://github.com/ritikyadav-io/leetcode-solution/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/ritikyadav-io/leetcode-solution/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ritikyadav-io/leetcode-solution/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/ritikyadav-io/leetcode-solution/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -315,6 +318,7 @@ Contains topicwise list of solved problems.
 | [0347-top-k-frequent-elements](https://github.com/ritikyadav-io/leetcode-solution/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ritikyadav-io/leetcode-solution/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ritikyadav-io/leetcode-solution/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/ritikyadav-io/leetcode-solution/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ritikyadav-io/leetcode-solution/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
